@@ -1,9 +1,9 @@
 
-## CAP-Manager Web Application
+### CAP-Manager Web Application
 
 A Java web application for managing CAP (Capital Allocation Program) applications with admin review functionality.
 
-### Project Structure
+#### Project Structure
 
 ```
 CAP-Manager/                 <- Root (Maven/NetBeans Web Application)
